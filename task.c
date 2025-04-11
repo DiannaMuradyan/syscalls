@@ -2,7 +2,6 @@
 #define write 1
 #define open 2
 #define close 3
-#define mmap 9
 #define exit 60
 #define rdwr 2
 #define one_MB  1048576
